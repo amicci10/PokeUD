@@ -1,4 +1,3 @@
-[![Build Status](https://secure.travis-ci.org/edubart/otclient.png?branch=master)](http://travis-ci.org/edubart/otclient)
 ### What is otclient?
 
 Otclient is an alternative Tibia client for usage with otserv. It aims to be complete and flexible,
@@ -34,17 +33,14 @@ In short, if you need to compile OTClient, follow these tutorials:
 Try to ask questions in [otland](http://otland.net/f494/), now we have a board for the project there,
 or talk with us at #otclient irc.freenode.net
 
-### Bugs
-
-Have found a bug? Please create an issue in our [bug tracker](https://github.com/edubart/otclient/issues)
 
 ### Contributing
 
-We encourage you to contribute to otclient! You can make pull requests of any improvement in our github page, alternatively, see [Contributing Wiki Page](https://github.com/edubart/otclient/wiki/Contributing).
+We encourage you to contribute to otclient! You can make pull requests of any improvement in our github page, alternatively.
 
 ### Contact
 
-Talk directly with us at #otclient irc.freenode.net or send an email directly to the project leader edub4rt@gmail.com
+Talk directly with us at #otclient irc.freenode.net or send an email directly to the project leader henrique.amicci@hotmail.com
 
 ### License
 
